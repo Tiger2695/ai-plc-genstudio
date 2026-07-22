@@ -304,7 +304,7 @@ with st.sidebar:
     )
 
     with st.expander("🔧 Developer / Connection Settings"):
-        backend_url = st.text_input("Backend API Gateway", value="http://127.0.0.1:8001/api/v1/generate")
+        backend_url = st.text_input("Backend API Gateway", value="https://ai-plc-genstudio.onrender.com/api/v1/generate")
 
     st.markdown("---")
     st.markdown("### 🏭 Delta Device Syntax Bounds")
