@@ -262,13 +262,13 @@ st.markdown("""
 
     /* ---------- Sidebar ---------- */
     section[data-testid="stSidebar"] {
-        background-color: #0F172A;
+        background-color: #FFFFF;
     }
     section[data-testid="stSidebar"] * {
         color: #E2E8F0 !important;
     }
     section[data-testid="stSidebar"] .stTextInput input {
-        color: #0F172A !important;
+        color: #FFFFF !important;
     }
 </style>
 """, unsafe_allow_html=True)
