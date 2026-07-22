@@ -4,3 +4,4 @@ pydantic
 google-genai
 streamlit
 httpx
+python-dotenv>=1.0.1
