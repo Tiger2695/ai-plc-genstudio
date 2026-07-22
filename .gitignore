@@ -1,0 +1,7 @@
+venv_backend/
+build/
+dist/
+__pycache__/
+*.pyc
+.env
+.streamlit/

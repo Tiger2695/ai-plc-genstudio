@@ -1,0 +1,3 @@
+(venv_backend) PS C:\Users\user\Desktop\R&D Chitransh Workspace\Project Kronos\frontend\src> python -m streamlit run app.py
+
+(venv_backend) PS C:\Users\user\Desktop\R&D Chitransh Workspace\Project Kronos\backend> python -m app.main

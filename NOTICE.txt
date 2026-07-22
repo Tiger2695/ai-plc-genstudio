@@ -1,0 +1,75 @@
+AI PLC-GenStudio
+Version 1.0 Alpha
+
+============================================================
+ORGANIZATION
+============================================================
+
+Scientech Technologies Private Limited
+
+============================================================
+SOFTWARE DEVELOPMENT
+============================================================
+
+Chitransh Mankar
+R&D Engineer
+
+Responsible for:
+
+• Software Architecture
+• AI Integration
+• Backend Development
+• Frontend Development
+• UI/UX Design
+• FastAPI Services
+• PLC Ladder Rendering
+• Validation Engine
+• Safety Audit Module
+• Testing & Integration
+
+============================================================
+PLC DOMAIN EXPERTISE & TECHNICAL GUIDANCE
+============================================================
+
+Prashant Tomar
+Senior R&D Engineer
+
+For:
+
+• PLC Domain Knowledge
+• Industrial Workflow Guidance
+• Functional Requirements
+• Technical Validation
+• Product Direction
+• Engineering Feedback
+
+============================================================
+SPECIAL THANKS
+============================================================
+
+PLC Engineering Team
+
+Scientech Technologies Private Limited
+
+For continuous technical discussions,
+testing, validation, and valuable feedback
+throughout the development of AI PLC-GenStudio.
+
+============================================================
+DISCLAIMER
+============================================================
+
+AI PLC-GenStudio is an engineering assistance tool designed
+to help generate PLC ladder logic from natural language.
+
+Generated outputs should always be reviewed and verified by
+qualified engineers before deployment to any industrial system.
+
+============================================================
+COPYRIGHT
+============================================================
+
+Copyright © 2026
+Scientech Technologies Private Limited
+
+All Rights Reserved.
