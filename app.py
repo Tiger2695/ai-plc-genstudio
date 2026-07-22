@@ -276,6 +276,14 @@ st.markdown("""
 # =============================================================================
 # Hero Header
 # =============================================================================
+
+import streamlit as st
+
+st.set_page_config(
+    page_title="AI PLC-GenStudio",
+    page_icon="app.ico",
+    layout="wide"
+)
 st.markdown("""
 <div class="app-hero">
     <div class="app-hero-eyebrow">Scientech Technologies Private Limited · Industrial Automation</div>
