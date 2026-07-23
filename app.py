@@ -265,7 +265,7 @@ st.markdown("""
         background-color: #FFFFFF;
     }
     section[data-testid="stSidebar"] * {
-        color: #E2E8F0 !important;
+        color: red !important;
     }
     section[data-testid="stSidebar"] .stTextInput input {
         color: #000000 !important;
