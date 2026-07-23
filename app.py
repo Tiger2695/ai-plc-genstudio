@@ -268,7 +268,7 @@ st.markdown("""
         color: #E2E8F0 !important;
     }
     section[data-testid="stSidebar"] .stTextInput input {
-        color: #FFFFF !important;
+        color: #FFFFFF !important;
     }
 </style>
 """, unsafe_allow_html=True)
